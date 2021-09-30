@@ -47,5 +47,5 @@
 
 // DELETE REQUEST
 // 1. Delete book - Done
-// 2. Delete author from book - 
+// 2. Delete author from book - Done
 // 3. Delete author from book and related book from author - Done
