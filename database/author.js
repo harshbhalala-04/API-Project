@@ -4,6 +4,8 @@ const mongoose = require("mongoose");
 
 // This comment is only for testing
 
+// This is comment from vs code.
+
 const AuthorSchema = mongoose.Schema({
     id: Number,
     name: String,
